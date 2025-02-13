@@ -10,4 +10,4 @@ Table reservation feature
 
 User authentication (customers and admin)
 
-Admin panel for managing menu, orders, and reservations
+Admin panel for managing menu, orders, and reservations.
